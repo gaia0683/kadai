@@ -1,0 +1,13 @@
+table{
+  border-collapse: separete;
+border-spacing: 10px;
+}
+.contact tr{
+  height:7rem;
+}
+.contact th{
+width:150px;
+}
+.word{
+width:480px;
+}
